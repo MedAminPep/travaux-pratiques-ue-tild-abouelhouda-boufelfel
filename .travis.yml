@@ -1,0 +1,12 @@
+{
+  "language": "java",
+  "jdk": "oraclejdk8",
+  "script": [
+    "./mvnw test"
+  ],
+  "after_success": [
+    "./mvnw clean cobertura:cobertura coveralls:report -DrepoToken=$COVERALL_TOKEN"
+  ],
+  "group": "stable",
+  "dist": "precise"
+}
