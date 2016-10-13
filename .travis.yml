@@ -7,5 +7,13 @@
   "after_success": [
     "./mvnw clean cobertura:cobertura coveralls:report -DrepoToken=$COVERALL_TOKEN"
   ]
+  deploy:
+    provider: heroku
+    strategy: git
+    run:
+      - "rake db:migrate"
+      - restart
+    on:
+      tags: true
 
 }
