@@ -35,3 +35,5 @@ overridedb.*
 dump.rdb
 transaction-logs
 !maven-wrapper.jar
+/coverage
+
