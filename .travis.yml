@@ -5,7 +5,7 @@
     "./mvnw test"
   ],
   "after_success": [
-    "./mvnw clean cobertura:cobertura coveralls:report -DrepoToken=$COVERALL_TOKEN"
+    "- mvn clean cobertura:cobertura org.eluder.coveralls:coveralls-maven-plugin:report"
   ],
 
 }
