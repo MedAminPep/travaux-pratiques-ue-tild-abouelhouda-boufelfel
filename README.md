@@ -1,5 +1,5 @@
 # Master iLORD - Tests et intégration de logiciels distribués 
- 
+!https://coveralls.io/repos/github/Master-iLORD/travaux-pratiques-ue-tild-abouelhouda-boufelfel/badge.svg?branch=develop(Coverage Status)!:https://coveralls.io/github/Master-iLORD/travaux-pratiques-ue-tild-abouelhouda-boufelfel?branch=develop
 ## TP1 - Découverte de l'environnement de travail
 
 ### 1. Création d'un compte Github et récupération du projet "AssessedCompetencies"
@@ -26,4 +26,3 @@
 - Complétez l'application de telle sorte que le service *CompetenceService* permette la sauvegarde d'un objet de type Categorie (ajout de la méthode *saveCategory(Category cat)*) puis d'un objet de type Comptence (ajout de la méthode *saveCompetence(Competence comp)*).
 - À l'issue de votre travail la couvertude du code par les tests doit être supérieure à 90% ; les tests doivent tester les cas de succès, les cas d'erreur, etc.
 
-!https://coveralls.io/repos/github/Master-iLORD/travaux-pratiques-ue-tild-abouelhouda-boufelfel/badge.svg?branch=develop(Coverage Status)!:https://coveralls.io/github/Master-iLORD/travaux-pratiques-ue-tild-abouelhouda-boufelfel?branch=develop
