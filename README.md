@@ -1,7 +1,7 @@
 # Master iLORD - Tests et intégration de logiciels distribués 
 !https://coveralls.io/repos/github/Master-iLORD/travaux-pratiques-ue-tild-abouelhouda-boufelfel/badge.svg?branch=develop(Coverage Status)!:https://coveralls.io/github/Master-iLORD/travaux-pratiques-ue-tild-abouelhouda-boufelfel?branch=develop
 ## TP1 - Découverte de l'environnement de travail
-
+[![Coverage Status](https://coveralls.io/repos/github/Master-iLORD/travaux-pratiques-ue-tild-abouelhouda-boufelfel/badge.svg?branch=develop)](https://coveralls.io/github/Master-iLORD/travaux-pratiques-ue-tild-abouelhouda-boufelfel?branch=develop)
 ### 1. Création d'un compte Github et récupération du projet "AssessedCompetencies"
 
 - Rendez vous sur le plateforme Web [Github](https://github.com/) et créez un compte sur la plateforme.
